@@ -1,0 +1,18 @@
+{
+	"type" : "future",
+	"list_coins_path" : "full_future_coins.txt",
+	"candles_path" : "candles_future_1d.csv",
+	"exclude_current_point" : false,
+	"candles_interval" : "1d",
+	"pattern_ranking_path" : "pattern_rankings.json",
+	"list_of_etp" :
+	{
+		"3" : ["BCHUSDT", "BSVUSDT", "BTCUSDT", "EOSUSDT", "ETHUSDT", "FILUSDT", "LINKUSDT", "LTCUSDT", "XRPUSDT", "ZECUSDT"],
+		"2" : ["DOTUSDT", "UNIUSDT"]
+	},
+	"api_configs" :
+	{
+		"api_key" : "",
+		"api_token" : ""
+	}
+}
